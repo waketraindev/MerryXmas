@@ -5,6 +5,7 @@ program begins with a cheerful ASCII art canvas of a Christmas tree and gifts, f
 symbolic gifts to reflect the season's essence.
 
 🌟 The Spirit of Christmas 🌟
-Through kindness, we find connection.
-Through giving, we rediscover joy.
-Through unity, we create a brighter world.
+
+## Through kindness, we find connection.
+## Through giving, we rediscover joy.
+## Through unity, we create a brighter world.
